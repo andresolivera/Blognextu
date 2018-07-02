@@ -1,4 +1,39 @@
-.navbar-inverse{
-  background: #6bafd1;
-  min-height: 20%;
+body{
+  background: brown;
+}
+/*-----cabecera-----*/
+.Logo{
+  height: 100%;
+}
+#Logo{
+  height: 100px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.img-social{
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+}
+.header{
+  background: white;
+  height: 120px;
+}
+.Redes{
+  background: white;
+  height: 120px;
+}
+.RSociales{
+padding-top: 80px;
+}
+
+/*-----barra navegacion-----*/
+#nav2{
+	background-color: coral;
+}
+a{
+  text-align: justify;
+  align-items: center;
+  align-content: center;
 }
